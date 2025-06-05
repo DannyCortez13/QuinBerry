@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #fff;
-  color: #333;
+  background-color: #faf5ff;
+  color: #3e2a56;
   line-height: 1.6;
 }
 
@@ -18,9 +18,9 @@ body {
 }
 
 .top-bar {
-  background-color: #f5f5f5;
+  background-color: #e8d5f3;
   padding: 10px 0;
-  border-bottom: 2px solid #e0e0e0;
+  border-bottom: 2px solid #d4a4ef;
 }
 
 .top-bar .container {
@@ -29,17 +29,17 @@ body {
 }
 
 .logo {
-  height: 50px;
+  height: 70px;
   margin-right: 20px;
 }
 
 .top-bar h1 {
-  font-size: 1.8rem;
-  color: #333;
+  font-size: 2.5rem;
+  color: #5e2c89;
 }
 
 .hero {
-  background: linear-gradient(to right, #e8f5e9, #fff);
+  background: linear-gradient(to right, #f3e5f5, #ede7f6);
   padding: 40px 0;
 }
 
@@ -56,7 +56,7 @@ body {
 
 .hero-text h2 {
   font-size: 2.5rem;
-  color: #2e7d32;
+  color: #6a1b9a;
   margin-bottom: 15px;
 }
 
@@ -67,7 +67,7 @@ body {
 
 .btn {
   display: inline-block;
-  background-color: #2e7d32;
+  background-color: #6a1b9a;
   color: white;
   padding: 10px 20px;
   text-decoration: none;
@@ -76,7 +76,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #1b5e20;
+  background-color: #4a148c;
 }
 
 .hero-image {
@@ -101,14 +101,38 @@ section {
   font-size: 1.1rem;
 }
 
+.nutricion table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.nutricion th, .nutricion td {
+  border: 1px solid #b39ddb;
+  padding: 10px;
+  text-align: center;
+}
+
+.nutricion th {
+  background-color: #d1c4e9;
+}
+
 .nutricion p {
-  font-size: 1.1rem;
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.testimonio img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
 
 footer {
-  background-color: #f5f5f5;
+  background-color: #e8d5f3;
   padding: 20px 0;
   text-align: center;
-  color: #777;
-  border-top: 1px solid #ddd;
+  color: #4a148c;
+  border-top: 1px solid #b39ddb;
 }
