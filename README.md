@@ -1,12 +1,12 @@
 # Quin'Berry
 
-Deliciosa mermelada de arándano con quinua andina.
+Deliciosa mermelada de arándano con quinua y tarwi andino.
 
 ## Características
 
 - Natural y sin conservantes
 - Rica en antioxidantes y fibra
-- Presentación de 124g
+- Presentación de 203g
 
 ## Contacto
 
